@@ -1,6 +1,6 @@
 default: docker_build
 
-DOCKER_IMAGE ?= e/agleeyetom/k8s-kubectl
+DOCKER_IMAGE ?= eagleeyetom/k8s-kubectl
 GIT_BRANCH ?= $(shell git rev-parse --abbrev-ref HEAD)
 
 ifeq ($(GIT_BRANCH), main)
