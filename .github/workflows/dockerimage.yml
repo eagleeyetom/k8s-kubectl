@@ -23,7 +23,7 @@ jobs:
       id: docker_meta
       uses: crazy-max/ghaction-docker-meta@v1
       with:
-        images: lachlanevenson/k8s-kubectl
+        images: eagleeyetom/k8s-kubectl
         tag-semver: |
           {{raw}}
     - name: Set up QEMU
