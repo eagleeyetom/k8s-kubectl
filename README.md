@@ -9,9 +9,9 @@
 [![](https://images.microbadger.com/badges/commit/lachlanevenson/k8s-kubectl.svg)](http://microbadger.com/images/lachlanevenson/k8s-kubectl "Get your own commit badge on microbadger.com")
 
 # Supported tags and respective `Dockerfile` links
-* `v1.29.1`, `latest`    [(v1.29.1/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.29.1/Dockerfile)
-* `v1.28.6`,    [(v1.28.6/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.28.6/Dockerfile)
-* `v1.27.10`,    [(v1.27.10/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.27.10/Dockerfile)
+* `v1.29.2`, `latest`    [(v1.29.1/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.29.2/Dockerfile)
+* `v1.28.7`,    [(v1.28.6/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.28.6/Dockerfile)
+* `v1.27.11`,    [(v1.27.10/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.27.10/Dockerfile)
 * `v1.25.4`,    [(v1.25.4/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.25.4/Dockerfile)
 * `v1.24.8`,    [(v1.24.8/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.24.8/Dockerfile)
 * `v1.23.14`,   [(v1.23.14/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.23.14/Dockerfile)
@@ -44,9 +44,6 @@ This container provides the Kubernetes client kubectl which can be used to inter
 
 ## Supported OS/ARCH
    * linux/amd64
-   * linux/arm64
-   * linux/s390x
-   * linux/ppc64le
 
 Massive thanks to [barthy1](https://github.com/barthy1) via [PR](https://github.com/lachie83/k8s-helm/pull/89) for contributing this work.
 
