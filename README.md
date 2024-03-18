@@ -1,12 +1,14 @@
 # Kubernetes Client
 
+This project is a fork of https://github.com/lachie83/k8s-kubectl and is slightly adapted to do the same thing!
+
 ### Build GitHub Action Status
-![Build and Publish kubectl container](https://github.com/lachie83/k8s-kubectl/workflows/Build%20and%20Publish%20kubectl%20container/badge.svg)
+![Build and Publish kubectl container](https://github.com/eagleeyetom/k8s-kubectl/workflows/Build%20and%20Publish%20kubectl%20container/badge.svg)
 
 ### Container Details
-[![](https://images.microbadger.com/badges/image/lachlanevenson/k8s-kubectl.svg)](http://microbadger.com/images/lachlanevenson/k8s-kubectl "Get your own image badge on microbadger.com")
-[![](https://images.microbadger.com/badges/version/lachlanevenson/k8s-kubectl.svg)](http://microbadger.com/images/lachlanevenson/k8s-kubectl "Get your own version badge on microbadger.com")
-[![](https://images.microbadger.com/badges/commit/lachlanevenson/k8s-kubectl.svg)](http://microbadger.com/images/lachlanevenson/k8s-kubectl "Get your own commit badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/eagleeyetom/k8s-kubectl.svg)](http://microbadger.com/images/lachlanevenson/k8s-kubectl "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/eagleeyetom/k8s-kubectl.svg)](http://microbadger.com/images/lachlanevenson/k8s-kubectl "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/commit/eagleeyetom/k8s-kubectl.svg)](http://microbadger.com/images/lachlanevenson/k8s-kubectl "Get your own commit badge on microbadger.com")
 
 # Supported tags and respective `Dockerfile` links
 * `v1.29.3`, `latest`    [(v1.29.3/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.29.3/Dockerfile)
@@ -44,6 +46,9 @@ This container provides the Kubernetes client kubectl which can be used to inter
 
 ## Supported OS/ARCH
    * linux/amd64
+   * linux/arm64
+   * linux/s390x
+   * linux/ppc64le
 
 Massive thanks to [barthy1](https://github.com/barthy1) via [PR](https://github.com/lachie83/k8s-helm/pull/89) for contributing this work.
 
