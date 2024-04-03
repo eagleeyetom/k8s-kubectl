@@ -11,9 +11,10 @@ This project is a fork of https://github.com/lachie83/k8s-kubectl and is slightl
 [![](https://images.microbadger.com/badges/commit/eagleeyetom/k8s-kubectl.svg)](http://microbadger.com/images/lachlanevenson/k8s-kubectl "Get your own commit badge on microbadger.com")
 
 # Supported tags and respective `Dockerfile` links
-* `v1.29.3`, `latest`    [(v1.29.3/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.29.3/Dockerfile)
-* `v1.28.8`,    [(v1.28.8/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.28.8/Dockerfile)
-* `v1.27.12`,    [(v1.27.12/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.27.12/Dockerfile)
+* `v1.29.2`, `latest`    [(v1.29.2/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.29.2/Dockerfile)
+* `v1.28.7`,    [(v1.28.7/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.28.7/Dockerfile)
+* `v1.27.11`,    [(v1.27.11/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.27.11/Dockerfile)
+* `v1.26.14`,    [(v1.26.14/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.26.14/Dockerfile)
 * `v1.25.4`,    [(v1.25.4/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.25.4/Dockerfile)
 * `v1.24.8`,    [(v1.24.8/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.24.8/Dockerfile)
 * `v1.23.14`,   [(v1.23.14/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.23.14/Dockerfile)
