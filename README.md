@@ -4,9 +4,10 @@
 ![Build and Publish kubectl container](https://github.com/lachie83/k8s-kubectl/workflows/Build%20and%20Publish%20kubectl%20container/badge.svg)
 
 ### Container Details
-[![](https://images.microbadger.com/badges/image/lachlanevenson/k8s-kubectl.svg)](http://microbadger.com/images/lachlanevenson/k8s-kubectl "Get your own image badge on microbadger.com")
-[![](https://images.microbadger.com/badges/version/lachlanevenson/k8s-kubectl.svg)](http://microbadger.com/images/lachlanevenson/k8s-kubectl "Get your own version badge on microbadger.com")
-[![](https://images.microbadger.com/badges/commit/lachlanevenson/k8s-kubectl.svg)](http://microbadger.com/images/lachlanevenson/k8s-kubectl "Get your own commit badge on microbadger.com")
+![Static Badge](https://img.shields.io/badge/Kubernetes-white?style=flat&logo=Kubernetes)
+![Docker Pulls](https://img.shields.io/docker/pulls/eagleeyetom/k8s-kubectl)
+![GitHub last commit](https://img.shields.io/github/last-commit/eagleeyetom/k8s-kubectl)
+![Docker Image Size](https://img.shields.io/docker/image-size/eagleeyetom/k8s-kubectl)
 
 # Supported tags and respective `Dockerfile` links
 * `v1.28.7`,    [(v1.28.7/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.28.7/Dockerfile)
