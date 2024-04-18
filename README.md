@@ -6,11 +6,16 @@ This project is a fork of https://github.com/lachie83/k8s-kubectl and is slightl
 ![Build and Publish kubectl container](https://github.com/eagleeyetom/k8s-kubectl/workflows/Build%20and%20Publish%20kubectl%20container/badge.svg)
 
 ### Container Details
-![Static Badge](https://img.shields.io/badge/Kubernetes-white?style=flat&logo=Kubernetes)
-![Docker Pulls](https://img.shields.io/docker/pulls/eagleeyetom/k8s-kubectl)
-![GitHub last commit](https://img.shields.io/github/last-commit/eagleeyetom/k8s-kubectl)
+[![Static Badge](https://img.shields.io/badge/Kubernetes-white?style=flat&logo=Kubernetes)](https://kubernetes.io/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/eagleeyetom/k8s-kubectl)](https://hub.docker.com/r/eagleeyetom/k8s-kubectl)
+[![GitHub last commit](https://img.shields.io/github/last-commit/eagleeyetom/k8s-kubectl)](https://github.com/eagleeyetom/k8s-kubectl/commits)
 ![Docker Image Size](https://img.shields.io/docker/image-size/eagleeyetom/k8s-kubectl)
 
+### Get Started
+
+```bash
+  docker pull eagleeyetom/k8s-kubectl
+```
 
 # Supported tags and respective `Dockerfile` links
 * `v1.30.0`, `latest`    [(v1.30.0/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.30.0/Dockerfile)
