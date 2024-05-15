@@ -10,8 +10,8 @@
 ![Docker Image Size](https://img.shields.io/docker/image-size/eagleeyetom/k8s-kubectl)
 
 # Supported tags and respective `Dockerfile` links
-* `v1.28.9`,    [(v1.28.9/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.28.9/Dockerfile)
-* `v1.27.13`,    [(v1.27.13/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.27.13/Dockerfile)
+* `v1.28.10`,    [(v1.28.10/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.28.10/Dockerfile)
+* `v1.27.14`,    [(v1.27.14/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.27.14/Dockerfile)
 * `v1.26.15`,    [(v1.26.15/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.26.15/Dockerfile)
 * `v1.25.4`,    [(v1.25.4/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.25.4/Dockerfile)
 * `v1.24.8`,    [(v1.24.8/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.24.8/Dockerfile)
