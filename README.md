@@ -19,9 +19,9 @@ This project is a fork of https://github.com/lachie83/k8s-kubectl and is slightl
 
 # Supported tags and respective `Dockerfile` links
 * `v1.31.0`, `latest`    [(v1.31.0/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.31.0/Dockerfile)
-* `v1.30.3`,    [(v1.30.3/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.30.3/Dockerfile)
-* `v1.29.7`,    [(v1.29.7/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.29.7/Dockerfile)
-* `v1.28.12`,    [(v1.28.12/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.28.12/Dockerfile)
+* `v1.30.4`,    [(v1.30.4/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.30.4/Dockerfile)
+* `v1.29.8`,    [(v1.29.8/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.29.8/Dockerfile)
+* `v1.28.13`,    [(v1.28.13/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.28.13/Dockerfile)
 * `v1.27.15`,    [v1.27.15/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.27.15/Dockerfile)
 * `v1.26.15`,    [(v1.26.15/Dockerfile)](https://github.com/eagleeyetom/k8s-kubectl/blob/v1.26.15/Dockerfile)
 * `v1.25.4`,    [(v1.25.4/Dockerfile)](https://github.com/lachie83/k8s-kubectl/blob/v1.25.4/Dockerfile)
